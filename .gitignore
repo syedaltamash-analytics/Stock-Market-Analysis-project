@@ -1,0 +1,18 @@
+# Large media files - SKIP from GitHub
+stock market analysis.mp4
+istockphoto-1332002332-612x612.jpg
+white-abstract-background-vector-gray-abstract-modern-design-background-for-report-and-project-presentation-template-vector-illustration-graphic-d-R4JH4P.jpg
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE folders
+.vscode/
+.idea/
+env/
+venv/
