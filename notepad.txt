@@ -1,5 +1,8 @@
 
-cd "C:/Altamash/Excelr code/PROJECTS/P_481_Stock market Prediction
+cd "C:/Altamash/Excelr code/PROJECTS/P_481_Stock market Prediction"
 
 
 streamlit run app1.py.py
+
+
+streamlit run app2.py 
