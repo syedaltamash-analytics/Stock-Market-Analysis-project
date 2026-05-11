@@ -160,7 +160,21 @@ For production use, **XGBoost** is recommended for its balance of performance an
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+## 👤 Author
+
+<div align="center">
+
+### Syed Mohd Altamash
+
+*Data Science & Machine Learning Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-syedaltamash--analytics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedaltamash-analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Mohd%20Altamash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedaltamash-analytics)
+
+</div>
+
+---
+
+
 
